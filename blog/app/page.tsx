@@ -13,14 +13,14 @@ export default function Home() {
           <h2 className="text-3xl font-semibold mb-8 text-center">Latest Articles</h2>
           
           {/* Featured Blog Post */}
-          <Link href="/posts/freight-market-update-december-2024">
+          <Link href="/posts/freight-market-december-2025-outlook">
             <article className="bg-gray-800 rounded-lg p-8 mb-8 shadow-lg hover:bg-gray-750 transition-colors cursor-pointer border-l-4 border-amber-500">
-              <div className="text-sm text-amber-400 mb-3">December 16, 2024 • Featured</div>
+              <div className="text-sm text-amber-400 mb-3">freight-market-december-2025Freight Market Outlook: Navigating Peak Season End and Preparing As 2025 draws to a close, the freight industry faces tariff uncertainties, Suez Canal reopening, holiday capacity tightening, and strategic shifts defining the path to 2026. Discover what shippers and carriers need December 16, 2025to know.for 2026-outlook • Featured</div>
               <h3 className="text-3xl font-bold mb-4 hover:text-amber-400 transition-colors">
-                Freight Market Update: Capacity Cuts, Port Strikes, and Rising Rates Shape December 2024
+                freight-market-december-2025Freight Market Outlook: Navigating Peak Season End and Preparing for 2026-outlook
               </h3>
               <p className="text-gray-300 mb-4">
-                The shipping industry faces significant disruptions as capacity cuts reach 30%, port automation disputes loom, and carriers navigate geopolitical tensions. Get the latest insights on how these changes impact the freight market.
+                freight-market-december-2025Freight Market Outlook: Navigating Peak Season End and Preparing As 2025 draws to a close, the freight industry faces tariff uncertainties, Suez Canal reopening, holiday capacity tightening, and strategic shifts defining the path to 2026. Discover what shippers and carriers need to know.for 2026-outlook
               </p>
               <div className="flex items-center text-amber-400 font-semibold">
                 Read full article →
