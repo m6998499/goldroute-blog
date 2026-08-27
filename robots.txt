@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://helpful-fenglisu-e394bd.netlify.app/sitemap.xml
