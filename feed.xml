@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Golden Route Freight Guide</title><link>https://helpful-fenglisu-e394bd.netlify.app/</link><description>Practical carrier strategy and freight operations guides.</description><item><title>How to Find Loads for a 26-Foot Box Truck</title><link>https://helpful-fenglisu-e394bd.netlify.app/guides/find-loads-26-foot-box-truck/</link><pubDate>Thu, 01 Oct 2026 15:21:37 GMT</pubDate><guid>https://helpful-fenglisu-e394bd.netlify.app/guides/find-loads-26-foot-box-truck/</guid></item><item><title>How to reduce deadhead miles and protect your profit</title><link>https://helpful-fenglisu-e394bd.netlify.app/guides/reduce-deadhead-miles/</link><pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate><guid>https://helpful-fenglisu-e394bd.netlify.app/guides/reduce-deadhead-miles/</guid></item><item><title>How to evaluate a freight load before you book it</title><link>https://helpful-fenglisu-e394bd.netlify.app/guides/evaluate-freight-load/</link><pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate><guid>https://helpful-fenglisu-e394bd.netlify.app/guides/evaluate-freight-load/</guid></item><item><title>Rate per mile is not profit</title><link>https://helpful-fenglisu-e394bd.netlify.app/guides/rate-per-mile-vs-profit/</link><pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate><guid>https://helpful-fenglisu-e394bd.netlify.app/guides/rate-per-mile-vs-profit/</guid></item><item><title>Seven questions to ask before accepting a load</title><link>https://helpful-fenglisu-e394bd.netlify.app/guides/questions-before-accepting-load/</link><pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate><guid>https://helpful-fenglisu-e394bd.netlify.app/guides/questions-before-accepting-load/</guid></item></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>Golden Route Freight Guide</title>
+    <link>https://helpful-fenglisu-e394bd.netlify.app/</link>
+    <description>Practical carrier strategy and freight operations guides.</description>
+    <item>
+      <title>How to Compare Freight Loads on a Load Board</title>
+      <link>https://helpful-fenglisu-e394bd.netlify.app/blog/how-to-compare-freight-loads/</link>
+      <description>Compare freight loads by route, equipment, pickup schedule, total miles, and shipment details. Use this carrier checklist before contacting a broker or shipper.</description>
+      <pubDate>Sun, 04 Oct 2026 04:17:46 GMT</pubDate>
+      <guid>https://helpful-fenglisu-e394bd.netlify.app/blog/how-to-compare-freight-loads/</guid>
+    </item>
+    <item>
+      <title>How to Find Loads for a 26-Foot Box Truck</title>
+      <link>https://helpful-fenglisu-e394bd.netlify.app/guides/find-loads-26-foot-box-truck/</link>
+      <pubDate>Thu, 01 Oct 2026 15:21:37 GMT</pubDate>
+      <guid>https://helpful-fenglisu-e394bd.netlify.app/guides/find-loads-26-foot-box-truck/</guid>
+    </item>
+    <item>
+      <title>How to reduce deadhead miles and protect your profit</title>
+      <link>https://helpful-fenglisu-e394bd.netlify.app/guides/reduce-deadhead-miles/</link>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+      <guid>https://helpful-fenglisu-e394bd.netlify.app/guides/reduce-deadhead-miles/</guid>
+    </item>
+    <item>
+      <title>How to evaluate a freight load before you book it</title>
+      <link>https://helpful-fenglisu-e394bd.netlify.app/guides/evaluate-freight-load/</link>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+      <guid>https://helpful-fenglisu-e394bd.netlify.app/guides/evaluate-freight-load/</guid>
+    </item>
+    <item>
+      <title>Rate per mile is not profit</title>
+      <link>https://helpful-fenglisu-e394bd.netlify.app/guides/rate-per-mile-vs-profit/</link>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+      <guid>https://helpful-fenglisu-e394bd.netlify.app/guides/rate-per-mile-vs-profit/</guid>
+    </item>
+    <item>
+      <title>Seven questions to ask before accepting a load</title>
+      <link>https://helpful-fenglisu-e394bd.netlify.app/guides/questions-before-accepting-load/</link>
+      <pubDate>Tue, 04 Aug 2026 12:00:00 GMT</pubDate>
+      <guid>https://helpful-fenglisu-e394bd.netlify.app/guides/questions-before-accepting-load/</guid>
+    </item>
+  </channel>
+</rss>
